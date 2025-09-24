@@ -27,10 +27,10 @@ pinout:
 
   # Outputs
   uo[0]: "output and"
-  uo[1]: "output nand"
-  uo[2]: "output or"
-  uo[3]: "output clock div 16"
-  uo[4]: "output clock div 12"
+  uo[1]: ""
+  uo[2]: ""
+  uo[3]: ""
+  uo[4]: ""
   uo[5]: ""
   uo[6]: ""
   uo[7]: ""
